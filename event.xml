@@ -2,13 +2,28 @@
 <EventSection>
 	<inter_university>
 		<literary>
-			<Event name="Debate">
-				<![CDATA[<center><Strong>Debate</Strong></center>
+			<Event name="English Debate">
+				<![CDATA[<center><Strong>English Debate</Strong></center>
 				<strong>Team Size:</strong> 2 from each University/College, one for the motion & the other against the motion<br/>
 				<strong>Time limit:</strong> Each member will be given 4 minutes to speak and 1 minute to refute. The refutation shall begin with the last speaker. 1st warning Buzzer will be after 3 minutes.<br/>
 				<strong>Topic:</strong> Issue for the Debate will be decided by the Faculty Coordinators of the event.<br/>
 				1.	Topic will be available on the Resurgence website 2 days prior to the event or will be inform to your Manager.<br/>
-				2.	Medium of presentation is English/Hindi only.<br/>
+				2.	Medium of presentation is English only.<br/>
+				3.	Paper reading is not allowed. One may however refer to noted points.<br/>
+				<strong>Judging Criteria:</strong> Voice Modulation (including suitable use of accents), content, suitability and propriety of language<br/>
+				Matter: the logical reasoning and content presented by the debater<br/>
+				Manner: presentation and delivery, the style of speaking and body language.<br/>
+				Method: structure and organization of the presentation made by the speakers.
+				Refutation.
+				]]>	
+			</Event>
+			<Event name="Hindi Debate">
+				<![CDATA[<center><Strong> Hindi Debate</Strong></center>
+				<strong>Team Size:</strong> 3from each University/College, one for the motion & the other against the motion<br/>
+				<strong>Time limit:</strong> Each member will be given 4 minutes to speak and 1 minute to refute. The refutation shall begin with the last speaker. 1st warning Buzzer will be after 3 minutes.<br/>
+				<strong>Topic:</strong> Issue for the Debate will be decided by the Faculty Coordinators of the event.<br/>
+				1.	Topic will be available on the Resurgence website 2 days prior to the event or will be inform to your Manager.<br/>
+				2.	Medium of presentation is English only.<br/>
 				3.	Paper reading is not allowed. One may however refer to noted points.<br/>
 				<strong>Judging Criteria:</strong> Voice Modulation (including suitable use of accents), content, suitability and propriety of language<br/>
 				Matter: the logical reasoning and content presented by the debater<br/>
@@ -31,88 +46,192 @@
 
 			</Event>
 			<Event name="Quiz">
-				<![CDATA[<center><Stagerong>Quiz</Strong></center><strong>
-				(1) Each Institute can send a team of three persons.<br/>
-				(2) There will be a written preliminary round and teams will be elected for the final.<br/>
-				(3) Finals will be oral with audio- visual questions.<br/>
-				(4) The Specific rules regarding evaluation procedure, time to reply a particular answer
-				and the type of round will be given before the actual start of the competition.
+				<![CDATA[<center><Strong>Quiz</Strong></center></strong>
+				<strong>Team Size:</strong> 3 from each house.
+
+				Rules: 1. The Quiz will be based on the following topics:
+             	Science, Geog., History & Culture, Sports, Current Affairs
+	
+          		2. The Specific rules regarding evaluation procedure, time to reply a particular answer
+            	and the type of round will be given before the actual start of the competition.
 				]]>
 			</Event>
 			<Event name="Poetry">
-				<![CDATA[<center><Stagerong>Quiz</Strong></center><strong>
-				(1) Each Institute can send a team of three persons.<br/>
-				(2) There will be a written preliminary round and teams will be elected for the final.<br/>
-				(3) Finals will be oral with audio- visual questions.<br/>
-				(4) The Specific rules regarding evaluation procedure, time to reply a particular answer
-				and the type of round will be given before the actual start of the competition.
+				<![CDATA[<center><Strong>Poetry</Strong></center></strong>
+				<strong>Team Size:</strong> 2 (1 for English and 1 for Hindi) from each House
+				<strong>Time limit: </strong>3-5 minutes for each recitation 
+				1. Topic will be given only two hours before the event and the participant is required to write poetry in a place specified by the event coordinators. 
+				2. Medium of poetry is English and Hindi (although restricted use of Urdu may be allowed).
+				3. The participant will have to submit the content of the poem in writing to the judges after the recitation.
+				<strong>Judging Criteria:<strong> Choice of words, diction, creativity, and style of recitation, relevance to the theme
+				]]>
+			</Event>
+			<Event name="Essay Writing">
+				<![CDATA[<center><Strong>Essay Writing</Strong></center></strong>
+				<stong>Team Size:</strong> 2 (individual) from each House
+				<strong>Time limit:</Strong> 2 hours.
+				1. The topic will be announced on the spot. 
+				2. The essay should reflect participant’s point of view.
+				3. The essay should be between 300-600 words.	
+				4. The language of writing is English/Hindi.
+				<Strong>Judging criteria:</Srtong>
+				1. Language
+				2. Articulation
+				3. Argumentation and Justification.
+				4. Counter arguments and their criticism.
+				5. A viable conclusion.
+				]]>
+			</Event>
+			<Event name="Creative Writing">
+				<![CDATA[<center><Strong>Creative Writing</Strong></center></strong>
+				Team Size: 2 from each House
+					<strong>Time limit:</stong> 3 hours.
+					1. The situation/theme and first line of the story will be announced on the spot. 
+					2. The participants are required to make a well-formed, original story. The situation/theme may belong to any time, any era, any place, and any culture. The level of expression must appropriate the character of the situation/theme.
+					3. The story should be of 500 – 1200 words.
+					4. The language of writing can be English/Hindi.
+					<strong>Judging criteria:</strong>
+					1. Ability to captivate the reader till the end 
+					2. Originality and articulation.
 				]]>
 			</Event>
 		</literary>
 		<music>
-			<Event name="Dreamovation">
-				<![CDATA[<center><Strong>Dreamovation</Strong></center>
-				<em>Pitch it high. Pitch it low. Pitch everyone out.<br/> 
-				Open up your voice and let the magic flow!</em><br/> 
-				<strong>Team Size:</strong> 1 participants from each university/college + 5 accompanists (max)<br/>
-				<strong>Dress Code:</strong> Contestants are asked to wear appropriate attire to the competition.<br/>
-				<strong>Time limit:</strong> 3-5 minutes for performance + 3 minutes for set up and clearance<br/>
-				<strong>Instruments Provided:</strong> 2 Guitars, 1 Bass, 1 Drum Kit, 1 Congo, 1 Synthesizer and 1 Tabla-set<br/>
-				1.	The participants are required to come prepared with a song of their choice to showcase their versatility.<br/>
-				2.	Bollywood Songs/geet/ghazal/bhajan/shabad and abhangas can be presented.<br/>
-				3.	The songs must have Hindi lyrics.<br/>
-				1.	The team may bring along a background music track as an accompaniment to its vocal performance, in case it is required. <br/>
-				2.	The track must be completely devoid of any vocals <br/>
-				3.	Any vocals in the track will lead to instant disqualification.<br/>
-				4.	Instrumental accompaniment by the person in the act or others is allowed, but is not judged. It must assume the pure character of accompaniment. The test shall be whether the performance would stand alone.<br/>
-				5.	Modification is allowed<br/>
+			<Event name="Sangam">
+				<![CDATA[<center><Strong>Sangam</Strong></center>
+					<strong>Team Size:</strong> 	5-8 including the accompanist.<br>
+					<strong>Time limit:<strong> 	6-10 minutes (including setup and clearance time)<br>
+
+					<Strong>Rules:</strong><br>
+					1. A team member can sing and play an instrument as well. However such a person would be counted as both vocalist and accompanist. 
+					2. Only Piano mode in key board is allowed, touch sense is allowed in keyboard and guitars will have to be played in clean mode. No processing of any kind including distortion will be allowed.  
+					3. Time Limit should be strictly followed. Participants will be penalized by judges for not doing so. 
+					4. The decision of the organizers with respect to line-up would be final. 
+					5. The decision of the judges will be binding.
+					6. The team may sing more than one song within the time limit.
+					7. Karaoke not allowed.
+
+					<Strong>Judging Criteria:</strong> Content, Delivery and quality of Vocals, Presentation, Synchronization, Stage presence and overall performance as a group.
+				]]>
+			</Event>
+			<Event name="Light Indian Vocal">
+				<![CDATA[<center><Strong>Light Indian Vocal</Strong></center></strong>
+		
+				<Strong>Team Size: </strong>1 participant from each house + 5 accompanists (max)
+				<strong>Dress Code:</strong> Contestants are asked to wear appropriate attire to the competition.
+				<strong>Time limit: </strong>3-5 minutes for performance + 3 minutes for set up and clearance
+				<strong>Instruments Provided:</strong> 2 Guitars, 1 Bass, 1 Drum Kit, 1 Synthesizer and 1 Tabla-set
+				1. The participants are required to come prepared with a song of their choice to showcase their versatility.
+				2. Ghazal/bhajan/shabad/Sufi and Abhangas can be presented.
+				3. Karaoke not allowed.
+				4. Accompanists from other houses are allowed.
+ 
+      
 				<strong>Judging Criteria:</strong> Judgment is on the qualities like Swara, Taal, Innovation, Synchronization, Selection of Raga, Composition and Overall Impression.
 				]]>
 			</Event>
-			<Event name="War of Bands">
-				<![CDATA[<center><Strong>Battle of Bands</Strong></center><strong>
-				<em>For those about to rock, we salute you!!!</em>
-				<strong>Team Size:</strong> 
-				A maximum of 10 participants from each university/college.<br/>
-				<strong>Time Limit:</strong> 
-				5-7 minutes for performance + 4 minutes for set up and clearance.<br/>
-				Instruments provided: 
-				2	Guitars, 1 drum kit, 1 Bass, 1 synthesizer<br/>
-				<strong>Rules:</strong><br/>
-				1.	The participants have to come prepared with a song of their choice to showcase their versatility. <br/>
-				2.	Genres can be anything ranging from folk metal to Death Metal from progressive and psychedelic to hard rock, from neo-classical to grunge to modern rock.<br/>
-				3.	The performance must be suitable for a family audience. Band names, 
-				lyrics, appearance, and performance must be free from obscenities and 
-				references to drugs, sex, or alcohol. Band members (regardless of age) 
-				may not use or possess drugs, alcohol, and tobacco during the 
-				event. In order to keep everyone safe, bands who encourage moshing 
-				or any other potentially dangerous acts may be disqualiﬁed.<br/>
 
-				<strong>Judging Criteria:  </strong><br/>
-				A panel of judges will score musicians using a point system. Criteria to be considered include: 
-				Stage Presentation, Sound Volume & Clarity, Band Synchronization, Time Management, Song Quality & Originality, Stage Management, Band Enthusiasm & Attitude, and Audience Response. Judges will award points in each category using a point system.<br/>
-				If bands end up in a tie, the following individual category scores will decide the winner (in order): Stage Presentation, Song Quality & Originality, and Audience Response.
+			<Event name="Western Vocal">
+				<![CDATA[<center><Strong>Western Vocals</Strong></center></strong>
+		
+					<Strong>Team Size:</strong> 1-2 from each House +5 accompanists (max)
+					<strong>Dress Code: </strong>Contestants are asked to wear appropriate attire to the competition.
+					<strong>Time limit:<strong> 3-5 minutes for performance + 3 minutes for set up and clearance
+					<strong>Instruments Provided:</strong> 2 Guitars, 1 Bass Guitar, 1 Drum Kit and 1 Synthesizer.
+					1. Only Western songs with no classical tinge are allowed.
+					2. Genres can be anything ranging from Rock to Rap and from Death Metal to Soft Singing.
+					3. Language of the song can be anything excluding those of Indian Subcontinents.
+					4. Karaoke not allowed.
+					5. Accompanists from other houses are allowed.
+
+					<strong>Judging Criteria: </strong>Judgment is made on the qualities like rhythm, vocals, composition coordination and overall impression
 				]]>
 			</Event>
+			<Event name="Hindi Duet">
+				<![CDATA[<center><Strong>Hindi Duet</Strong></center></strong>
+		
+					<strong>Team Size:</strong> 2 from each house + 5 accompanists (max)
+					<strong>Dress Code:</strong> Contestants are asked to wear appropriate attire to the competition.
+					<strong>Time Limit:<strong> 5 minutes for performance + 2 minutes for set up and clearance
+					<strong>Instruments Provided:</strong> 2 Guitars, 1 Bass, 1 Drum Kit, 1 Synthesizer and 1 Tabla-set
+					1. The participants have to come prepared with a song of their choice to showcase their versatility.
+					2. The songs must have Hindi lyrics.
+					3. Karaoke not allowed.
+					4. Accompanists from other houses are allowed.
+
+
+
+					<strong>Judging Criteria:<strong> Synchronization, Presentation, Rhythm, delivery and quality of vocals and overall impact
+				]]>
+			</Event>
+			<Event name="Instrumental">
+				<![CDATA[<center><Strong>Instrumental</Strong></center></strong>
+		
+				<strong>Team Size:</strong> 2-10 participants from each house
+				<strong>Time Limit:</strong> 5-8 minutes for performance + 2 minutes for set up and clearance
+				<strong>Instruments provided:</strong> As per requirements. 
+				(Participants may bring their own instruments but must inform to the music coordinators 2 days prior to the event).
+				1. The participants have to come prepared with an instrumental song (fusion is allowed).
+				2. In the use of any electronic keyboard, no pre-programmed music is allowed. 
+				3. The contestant must create all sound live on stage.
+				4. Non-traditional instruments can be used.
+				5. Accompanists from other houses are not allowed.
+
+				<strong>Judging Criteria:</strong> Melody, synchronization, audience response, stage presentation, creativity.
+
+				]]>
+			</Event>
+
+
 		</music>
 		<art>
 			<Event name="Poster Making">
-				<![CDATA[<center><Strong>Poster Making</Strong></center><strong>
-				(1) Each Institute will be represented by one participant.<br/>
-				(2) Item will be conducted on the spot and the participants will be requested to
-				do poster making on the subject / topic / theme given by the In- charge of the competition.<br/>
-				(3) Duration will not be more than 2 hours 30 minutes.<br/>
-				(4) Participants shall bring their own material. Only the Drawing paper/ Sheet 22” x 15”
-				will be provided by the organizers.
+				<![CDATA[<center><Strong>Poster Making</Strong></center></strong>
+				<strong>Team size:</strong> 2(individual) from each house
+				<strong>Time limit: </strong>2 hrs
+				</strong>Materials provided: </strong>A2/A3 Cartridge
+				The participants are required to make a poster on the topic given on the spot within the stipulated time. The participants are free to use any medium. The poster should be self-explanatory. However, text can be used in such a way that it becomes part of the whole picture & not a separate caption/slogan.
+				</strong>Judging Criteria:</strong> Concept, Original and creative approach, Overall effect
 				]]>
 			</Event>
 			<Event name="Face Painting">
-				<![CDATA[<center><Strong>Face Painting</Strong></center><strong>
+				<![CDATA[<center><Strong>Face Painting</Strong></center></strong>
 				<strong>Team size:</strong> 2 participant from each University/College (one model and one painter)<br/>
 				<strong>Time limit:</strong> 2 hours<br/>
 				<strong>Materials:</strong> Any color medium of your choice<br/>
 				Participant will be given a topic one hour before the event. The output should be in relevance with the topic given.<br/>
 				<strong>Judging Criteria: </strong>Concept, Overall effect
+				]]>
+			</Event>
+
+			<Event name="Sketching">
+				<![CDATA[<center><Strong>Sketching</Strong></center></strong>
+					<strong>Team Size:</strong> 1 individual from one house.
+					<strong>Time limit:</strong> 2:30 hrs
+					<strong>Material:</strong> Sheet will be provided. You need get your own pencil and other required stuff. And of course no color is allowed.
+					<strong>Judging Criteria:</strong> Vision, Perspective, Accuracy to the scene given or towards the topic.
+					Control over lines and the strokes.
+					Sketch, need to be clean and not confusing, bold indeed.
+
+				]]>
+			</Event>
+			<Event name="Poster Making">
+				<![CDATA[<center><Strong>Poster Making</Strong></center></strong>
+				<strong>Team size:</strong> 2(individual) from each house
+				<strong>Time limit: </strong>2 hrs
+				</strong>Materials provided: </strong>A2/A3 Cartridge
+				The participants are required to make a poster on the topic given on the spot within the stipulated time. The participants are free to use any medium. The poster should be self-explanatory. However, text can be used in such a way that it becomes part of the whole picture & not a separate caption/slogan.
+				</strong>Judging Criteria:</strong> Concept, Original and creative approach, Overall effect
+				]]>
+			</Event>
+
+			<Event name="Poster Making">
+				<![CDATA[<center><Strong>Poster Making</Strong></center></strong>
+				<strong>Team size:</strong> 2(individual) from each house
+				<strong>Time limit: </strong>2 hrs
+				</strong>Materials provided: </strong>A2/A3 Cartridge
+				The participants are required to make a poster on the topic given on the spot within the stipulated time. The participants are free to use any medium. The poster should be self-explanatory. However, text can be used in such a way that it becomes part of the whole picture & not a separate caption/slogan.
+				</strong>Judging Criteria:</strong> Concept, Original and creative approach, Overall effect
 				]]>
 			</Event>
 		</art>
