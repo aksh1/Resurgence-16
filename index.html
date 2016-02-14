@@ -66,14 +66,32 @@
     </div>
 
 	<div class="fullscreen-bg">
-    <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg__video">
-        <source src="video.webm" type="video/webm">
-        <source src="video.mp4" type="video/mp4">
+    <video id="my-video" class="video" muted loop>
+  <source src="v.mp4" type="video/mp4">
+  <source src="v.ogv" type="video/ogg">
+  <source src="v.webm" type="video/webm">
+</video>
        
     </video>
 </div>
 <style>
 	
+
+.video {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+
 	
 .fullscreen-bg {
   position: fixed;
@@ -119,7 +137,22 @@
 	
 	
 </style>
+<script>
+(function() {
+  /**
+   * Video element
+   * @type {HTMLElement}
+   */
+  var video = document.getElementById("my-video");
 
+  /**
+   * Check if video can play, and play it
+   */
+  video.addEventListener( "canplay", function() {
+    video.play();
+  });
+})();
+</script>
 
 
 
@@ -159,7 +192,7 @@
 
         <!-- build:js({.tmp,app}) scripts/scripts.js -->
         <script src="scripts/app.js"></script>
-        <script src="scripts/particles.js"></script>
+       
         
         <script src="scripts/controllers/main.js"></script>
         <script src="scripts/controllers/about.js"></script>
