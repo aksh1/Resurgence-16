@@ -86,7 +86,7 @@ function type(entry)
 		else
 		if (entry=="dance") 
 		{
-			text="<ol><li onClick='list_hover(this)'>Desi Beat</li><li onClick='list_hover(this)'> Semi Classical Solo</li><li onClick='list_hover(this)'>Street Dance</li><li onClick='list_hover(this)'>Folk Dance</li><li onClick='list_hover(this)'>Duet</li></ol>";
+			text="<ol><li onClick='list_hover(this)'>Desi Beat</li><li onClick='list_hover(this)'> Semi Classical Solo</li><li onClick='list_hover(this)'>Street Dance</li><li onClick='list_hover(this)'>Folk Dance</li><li onClick='list_hover(this)'>Dancing Duo</li></ol>";
 		}
 		else
 		if(entry=="photo")
