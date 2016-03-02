@@ -4,7 +4,7 @@
  *
  * @author Laxmikant Revdikar <laxmikant.4644@gmail.com>
  */
-			$mysql=mysql_connect("localhost","root","")
+			$mysql=mysql_connect("resurgence.smvdu.ac.in","","")
 			or die ("Cannot connect to database");
 			if (mysqli_connect_errno())
 			{
